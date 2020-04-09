@@ -1,0 +1,125 @@
+
+.main-body{
+  width: 100%;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  color: #444444;
+  font-size: 9pt;
+  background-color: #FAFAFA;
+}
+
+
+
+.bodypartfirst{
+    width:100%;
+    height:700px;
+}
+
+#smileimg{
+    width: 100%;
+    height: 850px;
+  text-align: center;
+  color: white;
+  position: absolute;
+
+}
+
+#smileform{
+    position: absolute;
+
+}
+
+  .smile-inerdiv{
+    padding: 50px;
+    padding-top: 0;
+  }
+
+  #detaildiv{
+    border-radius: 5px;
+    width: 80%;
+    margin-left: 10%;
+    padding:40px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+  }
+
+#reddiv{
+  width: 100%;
+  background: rgb(220, 58, 56);
+  color: white;
+  padding: 50px;
+}
+
+
+
+  #roomimg{
+      width: 100%;
+      height: 500px;
+  }
+
+  #groupimg{
+    width: 650px;
+    height: 600px;
+  }
+
+  .btndesign{
+    border-radius: 20px
+  }
+
+  .questiondesigns{
+    width: 90%;
+    border-radius: 5px;
+    padding: 15px;
+    background: #fffefe;
+    border: 2px solid #eee;
+    margin-top: 15px;
+    margin-left: 50px;
+
+  }
+
+
+  .btn-light{
+    color: red;
+    font-size: 20px;
+    font-weight: 700;
+  }
+
+  .collapse{
+    text-decoration: none;
+    color: black;
+  }
+
+  a {
+    color: #161617;
+    text-decoration: none;
+    background-color: transparent;
+    font-weight: 500;
+    font-size: 19px
+}
+
+a:hover{
+  text-decoration: none;
+  color: #161617;
+
+}
+
+.icons{
+  min-width: 130px;
+}
+
+.icons:hover{
+  min-width: 130px;
+  background: rgb(255, 255, 255);
+  border: 1px solid rgb(214, 214, 214);
+  border-radius: 5px;
+  color: red;
+}
+
+#footerdiv{
+  height: 300px;
+  background: rgb(220, 58, 56);
+}
+
+
+.socail{
+  font-size: 35px;
+}
